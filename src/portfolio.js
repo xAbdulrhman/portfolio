@@ -8,7 +8,7 @@ const settings = {
 //SEO Related settings
 const seo = {
     title: "AMB",
-    description: "A passionate IT Specialist & Web Developer 🚀 I strive for continuous progress in everything I do, both personally and professionally," +
+    description: "A passionate IT Specialist & Software Developer 🚀 I strive for continuous progress in everything I do, both personally and professionally," +
         " so, am keen to secure a role which allows me to enhance and develop my all-round skills and abilities.",
     og: {
         title: "AMB",
@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
     title: "Abdulrahman Bawazir🚀",
     logo_name: "AMB",
-    nickname: "A passionate IT Specialist & Web Developer",
+    nickname: "A passionate IT Specialist & Software Developer",
     subTitle: "I strive for continuous progress in everything I do, both personally and professionally," +
         " so, am keen to secure a role which allows me to enhance and develop my all-round skills and abilities.",
     resumeLink: "",
