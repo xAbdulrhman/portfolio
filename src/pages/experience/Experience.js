@@ -8,7 +8,7 @@ import { experience } from "../../portfolio.js";
 import { Fade } from "react-reveal";
 import ExperienceImg from "./ExperienceImg";
 
-const experience = {
+ experience = {
 	title: "Experience",
 	subtitle: "Work, Internship and Volunteership",
 	description:
