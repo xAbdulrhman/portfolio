@@ -481,6 +481,11 @@ const certifications = {
 const experience = {
     title: "Experience",
     subtitle: "Work, Internship and Volunteership",
+    //
+    //          الكلام اللي تحت أحطه بدل الحالي بالديسكربشن
+    //
+    //Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization
+    // as well as to enhance my knowledge about new and emerging trends in the IT sector.
     description: "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
     header_image_path: "experience.svg",
     sections: [
