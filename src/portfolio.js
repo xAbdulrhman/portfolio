@@ -486,7 +486,7 @@ const experience = {
     //
     //Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization
     // as well as to enhance my knowledge about new and emerging trends in the IT sector.
-    description: "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    description: "I have worked with various types of people's characteristics and mentality and, as far as I can tell about myself, I am able to work independently in busy environments and also within a team setting.\nI am a dedicated, organized and methodical individual.",
     header_image_path: "experience.svg",
     sections: [
         // {
