@@ -18,17 +18,17 @@ import ExperienceImg from "./ExperienceImg";
 		{
 			title: "Work",
 			experiences: [
-				// {
-				// 	title: "Associate AI Engineer",
-				// 	company: "Legato Health Technology",
-				// 	company_url: "https://legatohealthtech.com/",
-				// 	logo_path: "legato_logo.png",
-				// 	duration: "June 2020 - PRESENT",
-				// 	location: "Hyderabad, Telangana",
-				// 	description: "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-				// 	color: "#0879bf"
-				// },
-				// {
+				{
+					title: "Master Data Engineer",
+					company: "Al Wefag Trading & Manufacturing Co. Ltd.",
+					company_url: "https://alwefag.com/",
+					logo_path: "wefag.jpg",
+					duration: "Oct 2022 - PRESENT",
+					location: "Jeddah, Saudi Arabia",
+					description: "I'm working on creating a single master record for each customer, supplier, item or even employee in a business, from across internal and external data sources and applications. This information has been de-duplicated, reconciled and enriched, becoming a consistent, reliable source. Once created, I serve as a trusted view of business-critical data that can be managed and shared across the business to promote accurate reporting, reduce data errors, remove redundancy, and help workers make better-informed business decisions.",
+					color: "#0879bf"
+				}
+				// ,{
 				// 	title: "Android and ML Developer",
 				// 	company: "Muffito Incorporation",
 				// 	company_url: "https://www.linkedin.com/company/muffito-inc/about/",
@@ -55,18 +55,18 @@ import ExperienceImg from "./ExperienceImg";
 		{
 			title: "Internships",
 			experiences: [
-				// {
-				// 	title: "Data Science Research Intern",
-				// 	company: "Delhivery Pvt. Ltd.",
-				// 	company_url: "https://www.delhivery.com/",
-				// 	logo_path: "delhivery_logo.png",
-				// 	duration: "May 2019 - Sept 2019",
-				// 	location: "Gurgaon, Haryana",
-				// 	description:
-				// 		"I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-				// 	color: "#ee3c26"
-				// },
-				// {
+				{
+					title: "Web/Software Developer ",
+					company: "Smart Methods Est. ",
+					company_url: "https://s-m.com.sa/",
+					logo_path: "SM.jpg",
+					duration: "Jun 2021 - Aug 2021",
+					location: "Makkah, Saudi Arabia",
+					description:
+						"I have worked under IOT department on couple projects in total of +200 hours such as: (1) Building and designing UI/UX for a robot control system. (2) Synchronization embedded chat-bot technique using IBM Watson. (3) Design and testing (Text to Speech/Speech to Text) for robotic communication system. I have closely worked & dealt with the use of Python, HTML, CSS, JS, jQUERY and web techniques. At the end of internship, I got full score on final evaluation.",
+					color: "#ee3c26"
+				}
+				// ,{
 				// 	title: "Data Science Intern",
 				// 	company: "Intel Indexer LLC",
 				// 	company_url:
