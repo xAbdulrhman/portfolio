@@ -12,7 +12,7 @@ import ExperienceImg from "./ExperienceImg";
 	title: "Experience",
 	subtitle: "Work, Internship and Volunteership",
 	description:
-		"I have worked with various types of people's characteristics and mentality and, as far as I can tell about myself, I am able to work independently in busy environments and also within a team setting.\nI am a dedicated, organized and methodical individual.",
+		"I have worked with various types of people's characteristics and mentality and, as far as I can tell about myself, I am able to work independently in busy environments and also within a team settings. \nI am a dedicated, organized and methodical individual.",
 	header_image_path: "experience.svg",
 	sections: [
 		{
@@ -100,7 +100,7 @@ import ExperienceImg from "./ExperienceImg";
 					company_url: "https://www.microsoft.com/",
 					logo_path: "microsoft_logo.png",
 					duration: "July 2022 - PRESENT",
-					location: "Hyderabad, Telangana",
+					location: "Study From Home",
 					description:
 						"Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on AZURE certification and pass their exam, still willing for more.",
 					color: "#D83B01"
