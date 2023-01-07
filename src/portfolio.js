@@ -417,7 +417,7 @@ const certifications = {
             logo_path: "CBP.png",
             certificate_link: "https://drive.google.com/file/d/1Bvhp78LS-Em4fF6NHxTcuafdo8SPbgwC/view?usp=sharing",
             alt_name: "CBP-CT",
-            color_code: "#0066660A",
+            color_code: "#26C33391",
         },
         {
             title: "Organizational IQ",
