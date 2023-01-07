@@ -411,7 +411,14 @@ const certifications = {
             alt_name: "Udemy",
             color_code: "#0C9D5899",
         },
-
+        {
+            title: "CBP-Computer Technology Specialist",
+            subtitle: "- Certified Business Professional",
+            logo_path: "CBP.png",
+            certificate_link: "https://drive.google.com/file/d/1Bvhp78LS-Em4fF6NHxTcuafdo8SPbgwC/view?usp=sharing",
+            alt_name: "CBP-CT",
+            color_code: "#21CB01F0",
+        },
         {
             title: "Organizational IQ",
             subtitle: "- Misk Skills",
@@ -419,15 +426,6 @@ const certifications = {
             certificate_link: "https://miskfuturepath.novoed.com/#!/courses/2022-ar-organizational-iq/statements/2788859",
             alt_name: "Misk Skills",
             color_code: "#1230C199",
-        },
-
-        {
-            title: "Data Analysis",
-            subtitle: "- Misk Skills",
-            logo_path: "Misk.png",
-            certificate_link: "https://miskfuturepath.novoed.com/#!/courses/2022-ar-data-analysis/statements/2788859",
-            alt_name: "Misk Skills",
-            color_code: "#0C9D5899",
         },
         {
             title: "The Complete Ethical Hacking Course!",
@@ -437,22 +435,21 @@ const certifications = {
             alt_name: "Udemy",
             color_code: "#D83B0199",
         },
-
         {
-            title: "CCNA",
-            subtitle: "- Cisco",
-            logo_path: "Cisco-logo.png",
-            certificate_link: "https://www.credly.com/badges/b7a3dc94-e325-445b-9058-0f1c129361df?source=linked_in_profile",
-            alt_name: "Cisco",
-            color_code: "#00000099",
+            title: "Microsoft Office Specialist",
+            subtitle: "- Watheq-KAU",
+            logo_path: "watheq.jpg",
+            certificate_link: "https://drive.google.com/file/d/11RtRkwHCi3TKJKoyDSeasMf-d1o6J5Bb/view?usp=sharing",
+            alt_name: "MOS KAU",
+            color_code: "#7C1B0DA0",
         },
         {
-            title: "Introduction to Cybersecurity",
-            subtitle: "- Cisco",
-            logo_path: "Cisco-logo.png",
-            certificate_link: "https://www.credly.com/badges/df9b7793-be9e-43c2-a398-86eeacefe10d?source=linked_in_profile",
-            alt_name: "Cisco",
-            color_code: "#8C151599",
+            title: "Data Analysis",
+            subtitle: "- Misk Skills",
+            logo_path: "Misk.png",
+            certificate_link: "https://miskfuturepath.novoed.com/#!/courses/2022-ar-data-analysis/statements/2788859",
+            alt_name: "Misk Skills",
+            color_code: "#051D5899",
         },
         {
             title: "[NEW] Cyber Security 2020",
@@ -470,16 +467,14 @@ const certifications = {
             alt_name: "Microsoft",
             color_code: "#040B01F9",
         },
-
         {
-            title: "Microsoft Office Specialist",
-            subtitle: "- Watheq-KAU",
-            logo_path: "watheq.jpg",
-            certificate_link: "https://drive.google.com/file/d/11RtRkwHCi3TKJKoyDSeasMf-d1o6J5Bb/view?usp=sharing",
-            alt_name: "MOS KAU",
-            color_code: "#F48B01A9",
+            title: "CCNA",
+            subtitle: "- Cisco",
+            logo_path: "Cisco-logo.png",
+            certificate_link: "https://www.credly.com/badges/b7a3dc94-e325-445b-9058-0f1c129361df?source=linked_in_profile",
+            alt_name: "Cisco",
+            color_code: "#00000099",
         },
-
         {
             title: "Learn the Fundamentals of Networking",
             subtitle: "- Udemy",
@@ -488,14 +483,13 @@ const certifications = {
             alt_name: "Udemy",
             color_code: "#90990099",
         },
-
         {
-            title: "CBP-Computer Technology Specialist",
-            subtitle: "- Certified Business Professional",
-            logo_path: "CBP.png",
-            certificate_link: "https://drive.google.com/file/d/1Bvhp78LS-Em4fF6NHxTcuafdo8SPbgwC/view?usp=sharing",
-            alt_name: "CBP-CT",
-            color_code: "#21CB01F0",
+            title: "Introduction to Cybersecurity",
+            subtitle: "- Cisco",
+            logo_path: "Cisco-logo.png",
+            certificate_link: "https://www.credly.com/badges/df9b7793-be9e-43c2-a398-86eeacefe10d?source=linked_in_profile",
+            alt_name: "Cisco",
+            color_code: "#8C151599",
         },
     ],
 };
