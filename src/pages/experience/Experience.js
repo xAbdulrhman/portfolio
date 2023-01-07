@@ -12,7 +12,7 @@ import ExperienceImg from "./ExperienceImg";
 	title: "Experience",
 	subtitle: "Work, Internship and Volunteership",
 	description:
-		"I have worked with various types of people's characteristics and mentality and, as far as I can tell about myself, I am able to work independently in busy environments and also within a team settings. \nI am a dedicated, organized and methodical individual.",
+		"I have worked with various types of people's characteristics and mentality, so, as far as I can tell about myself, I am able to work independently in busy environments and also within a team settings. \nI am a dedicated, organized and methodical individual.",
 	header_image_path: "experience.svg",
 	sections: [
 		{
@@ -63,7 +63,7 @@ import ExperienceImg from "./ExperienceImg";
 					duration: "Jun 2021 - Aug 2021",
 					location: "Makkah, Saudi Arabia",
 					description:
-						"I have worked under IOT department on couple projects in total of +200 hours such as: (1) Building and designing UI/UX for a robot control system. (2) Synchronization embedded chat-bot technique using IBM Watson. (3) Design and testing (Text to Speech/Speech to Text) for robotic communication system. I have closely worked & dealt with the use of Python, HTML, CSS, JS, jQUERY and web techniques. At the end of internship, I got full score on final evaluation.",
+						"I have worked in total of +200 hours under IOT department on couple projects such as: (1) Building and designing UI/UX for a robot control system. (2) Synchronization embedded chat-bot technique using IBM Watson. (3) Design and testing (Text to Speech/Speech to Text) for robotic communication system. \nI have closely worked and dealt with the use of Python, HTML, CSS, JS, jQUERY and web techniques. At the end of my internship, I successfully obtained full score on final evaluation.",
 					color: "#ee3c26"
 				}
 				// ,{
@@ -136,7 +136,7 @@ import ExperienceImg from "./ExperienceImg";
 					duration: "Jun 2021 - PRESENT",
 					location: "Work From Home",
 					description:
-						"I am kinda actively contributing to opensource projects. These contributions include searching for bugs to fix, playing around or mainly educational purposes.",
+						"From  time to time I'm actively contributing to opensource projects. These contributions include searching for bugs to fix, playing around or mainly educational purposes.",
 					color: "#181717"
 				}
 			]

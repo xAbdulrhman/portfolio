@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-    isSplash: true, // Change this to false if you don't want Splash screen.
+    isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -133,102 +133,102 @@ const skills = {
                 "⚡ Capability to code and program from scratch without a use of frameworks (pure code)",
             ],
             softwareSkills: [{
-                    skillName: "HTML5",
-                    fontAwesomeClassname: "simple-icons:html5",
-                    style: {
-                        color: "#E34F26",
-                    },
+                skillName: "HTML5",
+                fontAwesomeClassname: "simple-icons:html5",
+                style: {
+                    color: "#E34F26",
                 },
-                {
-                    skillName: "CSS3",
-                    fontAwesomeClassname: "fa-css3",
-                    style: {
-                        color: "#1572B6",
-                    },
+            },
+            {
+                skillName: "CSS3",
+                fontAwesomeClassname: "fa-css3",
+                style: {
+                    color: "#1572B6",
                 },
-                {
-                    skillName: "Bootstrap",
-                    fontAwesomeClassname: "logos:bootstrap",
-                    style: {
-                        backgroundColor: "transparent",
-                        color: "#3776AB",
-                    },
+            },
+            {
+                skillName: "Bootstrap",
+                fontAwesomeClassname: "logos:bootstrap",
+                style: {
+                    backgroundColor: "transparent",
+                    color: "#3776AB",
                 },
-                {
-                    skillName: "JavaScript",
-                    fontAwesomeClassname: "simple-icons:javascript",
-                    style: {
-                        backgroundColor: "#000000",
-                        color: "#F7DF1E",
-                    },
+            },
+            {
+                skillName: "JavaScript",
+                fontAwesomeClassname: "simple-icons:javascript",
+                style: {
+                    backgroundColor: "#000000",
+                    color: "#F7DF1E",
                 },
-                {
-                    skillName: "PyTorch",
-                    fontAwesomeClassname: "logos:pytorch-icon",
-                    style: {
-                        backgroundColor: "transparent",
-                    },
+            },
+            {
+                skillName: "PyTorch",
+                fontAwesomeClassname: "logos:pytorch-icon",
+                style: {
+                    backgroundColor: "transparent",
                 },
-                {
-                    skillName: "Python",
-                    fontAwesomeClassname: "ion-logo-python",
-                    style: {
-                        backgroundColor: "transparent",
-                        color: "#3776AB",
-                    }
+            },
+            {
+                skillName: "Python",
+                fontAwesomeClassname: "ion-logo-python",
+                style: {
+                    backgroundColor: "transparent",
+                    color: "#3776AB",
+                }
+            },
+            {
+                skillName: "Azure",
+                fontAwesomeClassname: "simple-icons:microsoftazure",
+                style: {
+                    color: "#0089D6",
                 },
-                {
-                    skillName: "Azure",
-                    fontAwesomeClassname: "simple-icons:microsoftazure",
-                    style: {
-                        color: "#0089D6",
-                    },
+            },
+            {
+                skillName: "Microsoft",
+                fontAwesomeClassname: "logos:microsoft",
+                style: {
+                    backgroundColor: "transparent",
+                    color: "#3776AB",
                 },
-                {
-                    skillName: "Microsoft",
-                    fontAwesomeClassname: "logos:microsoft",
-                    style: {
-                        backgroundColor: "transparent",
-                        color: "#3776AB",
-                    },
-                },
+            },
 
-                {
-                    skillName: "NodeJS",
-                    fontAwesomeClassname: "simple-icons:node-dot-js",
-                    style: {
-                        color: "#339933",
-                    },
+            {
+                skillName: "NodeJS",
+                fontAwesomeClassname: "simple-icons:node-dot-js",
+                style: {
+                    color: "#339933",
                 },
-                {
-                    skillName: "NPM",
-                    fontAwesomeClassname: "simple-icons:npm",
-                    style: {
-                        color: "#CB3837",
-                    },
+            },
+            {
+                skillName: "NPM",
+                fontAwesomeClassname: "simple-icons:npm",
+                style: {
+                    color: "#CB3837",
                 },
-                {
-                    skillName: "php",
-                    fontAwesomeClassname: "fa-brands:php",
-                    style: {
-                        color: "#2C8EBB",
-                    },
+            },
+            {
+                skillName: "php",
+                fontAwesomeClassname: "fa-brands:php",
+                style: {
+                    color: "#2C8EBB",
                 },
-                {
-                    skillName: "Java",
-                    fontAwesomeClassname: "logos:java",
-                    style: {
-                        color: "#663399",
-                    },
+            },
+            {
+                skillName: "Java",
+                fontAwesomeClassname: "logos:java",
+                style: {
+                    color: "#663399",
                 },
-                {
-                    skillName: "MySQL",
-                    fontAwesomeClassname: "cib:mysql",
-                    style: {
-                        backgroundColor: "transparent",
-                        color: "#3776AB",
-                    },
+            },
+            {
+                skillName: "MySQL",
+                fontAwesomeClassname: "cib:mysql",
+                style: {
+                    backgroundColor: "transparent",
+                    color: "#3776AB",
                 },
+            },
             ],
         },
         // {
@@ -398,26 +398,29 @@ const degrees = {
             "⚡ I have received an Excellent certification and a Database track certification.",
         ],
         website_link: "https://computing.kau.edu.sa/Default-611-AR",
-    }, ],
+    },],
 };
 
 const certifications = {
-    certifications: [{
+    certifications: [
+        {
+            title: "Data Science & Machine Learning",
+            subtitle: "- Udemy",
+            logo_path: "Udemy.png",
+            certificate_link: "https://www.udemy.com/certificate/UC-b75900c0-e7e6-4a34-a39d-e5cd5e1f23fa/",
+            alt_name: "Udemy",
+            color_code: "#0C9D5899",
+        },
+
+        {
             title: "Organizational IQ",
             subtitle: "- Misk Skills",
             logo_path: "Misk.png",
             certificate_link: "https://miskfuturepath.novoed.com/#!/courses/2022-ar-organizational-iq/statements/2788859",
             alt_name: "Misk Skills",
-            color_code: "#1F70C199",
+            color_code: "#1230C199",
         },
-        {
-            title: "CCNA",
-            subtitle: "- Cisco",
-            logo_path: "Cisco-logo.png",
-            certificate_link: "https://www.credly.com/badges/b7a3dc94-e325-445b-9058-0f1c129361df?source=linked_in_profile",
-            alt_name: "Cisco",
-            color_code: "#00000099",
-        },
+
         {
             title: "Data Analysis",
             subtitle: "- Misk Skills",
@@ -433,6 +436,15 @@ const certifications = {
             certificate_link: "https://www.udemy.com/certificate/UC-beca7038-3abe-40bb-bbe3-6f06309e6d58/",
             alt_name: "Udemy",
             color_code: "#D83B0199",
+        },
+
+        {
+            title: "CCNA",
+            subtitle: "- Cisco",
+            logo_path: "Cisco-logo.png",
+            certificate_link: "https://www.credly.com/badges/b7a3dc94-e325-445b-9058-0f1c129361df?source=linked_in_profile",
+            alt_name: "Cisco",
+            color_code: "#00000099",
         },
         {
             title: "Introduction to Cybersecurity",
@@ -451,14 +463,6 @@ const certifications = {
             color_code: "#1F70C199",
         },
         {
-            title: "Data Science & Machine Learning",
-            subtitle: "- Udemy",
-            logo_path: "Udemy.png",
-            certificate_link: "https://www.udemy.com/certificate/UC-b75900c0-e7e6-4a34-a39d-e5cd5e1f23fa/",
-            alt_name: "Udemy",
-            color_code: "#0C9D5899",
-        },
-        {
             title: "Microsoft Certified: Azure Fundamentals",
             subtitle: "- Microsoft",
             logo_path: "microsoft_logo.png",
@@ -466,6 +470,16 @@ const certifications = {
             alt_name: "Microsoft",
             color_code: "#040B01F9",
         },
+
+        {
+            title: "Microsoft Office Specialist",
+            subtitle: "- Watheq-KAU",
+            logo_path: "watheq.jpg",
+            certificate_link: "https://drive.google.com/file/d/11RtRkwHCi3TKJKoyDSeasMf-d1o6J5Bb/view?usp=sharing",
+            alt_name: "MOS KAU",
+            color_code: "#F48B01A9",
+        },
+
         {
             title: "Learn the Fundamentals of Networking",
             subtitle: "- Udemy",
@@ -473,6 +487,15 @@ const certifications = {
             certificate_link: "https://www.udemy.com/certificate/UC-cce44ffc-b0b5-4831-9d22-1c2e81bdfe0d/",
             alt_name: "Udemy",
             color_code: "#90990099",
+        },
+
+        {
+            title: "CBP-Computer Technology Specialist",
+            subtitle: "- Certified Business Professional",
+            logo_path: "CBP.png",
+            certificate_link: "https://drive.google.com/file/d/1Bvhp78LS-Em4fF6NHxTcuafdo8SPbgwC/view?usp=sharing",
+            alt_name: "CBP-CT",
+            color_code: "#21CB01F0",
         },
     ],
 };
