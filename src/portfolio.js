@@ -417,7 +417,7 @@ const certifications = {
             logo_path: "CBP.png",
             certificate_link: "https://drive.google.com/file/d/1Bvhp78LS-Em4fF6NHxTcuafdo8SPbgwC/view?usp=sharing",
             alt_name: "CBP-CT",
-            color_code: "#21CB01F0",
+            color_code: "#0066660",
         },
         {
             title: "Organizational IQ",
@@ -441,7 +441,7 @@ const certifications = {
             logo_path: "watheq.jpg",
             certificate_link: "https://drive.google.com/file/d/11RtRkwHCi3TKJKoyDSeasMf-d1o6J5Bb/view?usp=sharing",
             alt_name: "MOS KAU",
-            color_code: "#7C1B0DA0",
+            color_code: "#6023100",
         },
         {
             title: "Data Analysis",
