@@ -417,7 +417,7 @@ const certifications = {
             logo_path: "CBP.png",
             certificate_link: "https://drive.google.com/file/d/1Bvhp78LS-Em4fF6NHxTcuafdo8SPbgwC/view?usp=sharing",
             alt_name: "CBP-CT",
-            color_code: "#0066660",
+            color_code: "#0066660A",
         },
         {
             title: "Organizational IQ",
@@ -437,11 +437,11 @@ const certifications = {
         },
         {
             title: "Microsoft Office Specialist",
-            subtitle: "- Watheq-KAU",
+            subtitle: "- Watheq KAU",
             logo_path: "watheq.jpg",
             certificate_link: "https://drive.google.com/file/d/11RtRkwHCi3TKJKoyDSeasMf-d1o6J5Bb/view?usp=sharing",
             alt_name: "MOS KAU",
-            color_code: "#6023100",
+            color_code: "#533332A0",
         },
         {
             title: "Data Analysis",
@@ -449,7 +449,7 @@ const certifications = {
             logo_path: "Misk.png",
             certificate_link: "https://miskfuturepath.novoed.com/#!/courses/2022-ar-data-analysis/statements/2788859",
             alt_name: "Misk Skills",
-            color_code: "#051D5899",
+            color_code: "#051D3219",
         },
         {
             title: "[NEW] Cyber Security 2020",
