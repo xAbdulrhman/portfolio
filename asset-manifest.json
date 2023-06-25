@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.df6f0422.css",
-    "main.js": "./static/js/main.eef31e33.js",
+    "main.js": "./static/js/main.5b80082c.js",
     "static/media/portfolio.gif": "./static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -39,6 +39,7 @@
     "static/media/intel_logo.jpg": "./static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
     "static/media/watheq.jpg": "./static/media/watheq.fed06142ce9ac78298a4.jpg",
+    "static/media/ISC2.png": "./static/media/ISC2.1da332c6f9ed0f735465.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/muffito_logo.png": "./static/media/muffito_logo.a40e290031eaf389bde1.png",
     "static/media/KK.jpg": "./static/media/KK.8e5b2178255d8e859bd8.jpg",
@@ -74,10 +75,10 @@
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.df6f0422.css.map": "./static/css/main.df6f0422.css.map",
-    "main.eef31e33.js.map": "./static/js/main.eef31e33.js.map"
+    "main.5b80082c.js.map": "./static/js/main.5b80082c.js.map"
   },
   "entrypoints": [
     "static/css/main.df6f0422.css",
-    "static/js/main.eef31e33.js"
+    "static/js/main.5b80082c.js"
   ]
 }
