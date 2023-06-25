@@ -83,24 +83,24 @@ import ExperienceImg from "./ExperienceImg";
 		{
 			title: "Volunteerships",
 			experiences: [
-				// {
-				// 	title: "Google Explore ML Facilitator",
-				// 	company: "Google",
-				// 	company_url: "https://about.google/",
-				// 	logo_path: "google_logo.png",
-				// 	duration: "June 2019 - April 2020",
-				// 	location: "Hyderabad, Telangana",
-				// 	description:
-				// 		"Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
-				// 	color: "#4285F4"
-				// },
+				{
+					title: "(ISC)² Candidate",
+					company: "(ISC)²",
+					company_url: "https://www.isc2.org/",
+					logo_path: "ISC2.png",
+					duration: "February 2023 - February 2024",
+					location: "Virtual",
+					description:
+						"(ISC)² Candidates are individuals pursuing or considering a cybersecurity certification.",
+					color: "#2f9f3f"
+				},
 				{
 					title: "Microsoft Student Partner",
 					company: "Microsoft",
 					company_url: "https://www.microsoft.com/",
 					logo_path: "microsoft_logo.png",
 					duration: "July 2022 - PRESENT",
-					location: "Study From Home",
+					location: "Virtual",
 					description:
 						"Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on AZURE certification and pass their exam, still willing for more.",
 					color: "#D83B01"
@@ -134,7 +134,7 @@ import ExperienceImg from "./ExperienceImg";
 					company_url: "https://github.com/",
 					logo_path: "github_logo.png",
 					duration: "Jun 2021 - PRESENT",
-					location: "Work From Home",
+					location: "Virtual",
 					description:
 						"From  time to time I'm actively contributing to opensource projects. These contributions include searching for bugs to fix, playing around or mainly educational purposes.",
 					color: "#181717"

@@ -2,12 +2,12 @@
 
 // Website related settings
 const settings = {
-    isSplash: false, // Change this to false if you don't want Splash screen.
+    isSplash: true, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
 const seo = {
-    title: " AMB ",
+    title: "AMB",
     description: "A passionate IT Specialist & Software Developer 🚀 I strive for continuous progress in everything I do, both personally and professionally," +
         " so, am keen to secure a role which allows me to enhance and develop my all-round skills and abilities.",
     og: {
@@ -21,11 +21,11 @@ const seo = {
 const greeting = {
     title: "Abdulrahman Bawazir🚀",
     logo_name: "AMB",
-    nickname: "A passionate IT Specialist & Software Developer",
+    nickname: "A Master Data Engineer & passionate Cyber Officer",
     subTitle: "I strive for continuous progress in everything I do, both personally and professionally," +
         " so, am keen to secure a role which allows me to enhance and develop my all-round skills and abilities.",
     resumeLink: "",
-    portfolio_repository: "https://github.com/xAbdulrhman/wow",
+    portfolio_repository: "https://github.com/xAbdulrhman/portfolio",
     githubProfile: "https://github.com/xAbdulrhman",
 };
 
@@ -394,8 +394,8 @@ const degrees = {
         duration: "2017 - 2022",
         descriptions: [
             "⚡ I have graduated in Bachelor of Information Technology with a very good GPA.",
-            "⚡ Apart from this, I have done courses on Cyber Security, Cloud Computing and Full Stack Development.",
             "⚡ I have received an Excellent certification and a Database track certification.",
+            "⚡ Apart from this, I've done courses on Programming, Network, Cyber Security and Cloud Computing.",
         ],
         website_link: "https://computing.kau.edu.sa/Default-611-AR",
     },],
@@ -412,12 +412,12 @@ const certifications = {
             color_code: "#0C9D5899",
         },
         {
-            title: "CBP-Computer Technology Specialist",
-            subtitle: "- Certified Business Professional",
-            logo_path: "CBP.png",
-            certificate_link: "https://drive.google.com/file/d/1Bvhp78LS-Em4fF6NHxTcuafdo8SPbgwC/view?usp=sharing",
-            alt_name: "CBP-CT",
-            color_code: "#5B2C6F6F",
+            title: "CCNA",
+            subtitle: "- Cisco",
+            logo_path: "Cisco-logo.png",
+            certificate_link: "https://www.credly.com/badges/b7a3dc94-e325-445b-9058-0f1c129361df?source=linked_in_profile",
+            alt_name: "Cisco",
+            color_code: "#00008f",
         },
         {
             title: "Organizational IQ",
@@ -436,12 +436,12 @@ const certifications = {
             color_code: "#D83B0199",
         },
         {
-            title: "Microsoft Office Specialist",
-            subtitle: "- Watheq KAU",
-            logo_path: "watheq.jpg",
-            certificate_link: "https://drive.google.com/file/d/11RtRkwHCi3TKJKoyDSeasMf-d1o6J5Bb/view?usp=sharing",
-            alt_name: "MOS KAU",
-            color_code: "#533332A0",
+            title: "Introduction to Cybersecurity",
+            subtitle: "- Cisco",
+            logo_path: "Cisco-logo.png",
+            certificate_link: "https://www.credly.com/badges/df9b7793-be9e-43c2-a398-86eeacefe10d?source=linked_in_profile",
+            alt_name: "Cisco",
+            color_code: "#0a4966",
         },
         {
             title: "Data Analysis",
@@ -449,48 +449,49 @@ const certifications = {
             logo_path: "Misk.png",
             certificate_link: "https://miskfuturepath.novoed.com/#!/courses/2022-ar-data-analysis/statements/2788859",
             alt_name: "Misk Skills",
-            color_code: "#051D3219",
+            color_code: "#90990099",
         },
-        {
-            title: "[NEW] Cyber Security 2020",
-            subtitle: "- Udemy",
-            logo_path: "Udemy.png",
-            certificate_link: "https://www.udemy.com/certificate/UC-378c5cbf-1acb-4dc8-a7ad-89618e5885c7/",
-            alt_name: "Udemy",
-            color_code: "#1F70C199",
-        },
+        // {
+        //     title: "[NEW] Cyber Security 2020",
+        //     subtitle: "- Udemy",
+        //     logo_path: "Udemy.png",
+        //     certificate_link: "https://www.udemy.com/certificate/UC-378c5cbf-1acb-4dc8-a7ad-89618e5885c7/",
+        //     alt_name: "Udemy",
+        //     color_code: "#1F70C199",
+        // },
         {
             title: "Microsoft Certified: Azure Fundamentals",
             subtitle: "- Microsoft",
-            logo_path: "microsoft_logo.png",
+            logo_path: "azure.png",
             certificate_link: "https://www.credly.com/badges/c07142f6-419e-443e-97b2-c60009b3df7f/public_url",
             alt_name: "Microsoft",
-            color_code: "#040B01F9",
+            color_code: "#051D3219",
         },
         {
-            title: "CCNA",
-            subtitle: "- Cisco",
-            logo_path: "Cisco-logo.png",
-            certificate_link: "https://www.credly.com/badges/b7a3dc94-e325-445b-9058-0f1c129361df?source=linked_in_profile",
-            alt_name: "Cisco",
-            color_code: "#00000099",
+            title: "CBP-Computer Technology Specialist",
+            subtitle: "- Certified Business Professional",
+            logo_path: "CBP.png",
+            certificate_link: "https://drive.google.com/file/d/1Bvhp78LS-Em4fF6NHxTcuafdo8SPbgwC/view?usp=sharing",
+            alt_name: "CBP-CT",
+            color_code: "#5B2C6F6F",
         },
         {
-            title: "Learn the Fundamentals of Networking",
-            subtitle: "- Udemy",
-            logo_path: "Udemy.png",
-            certificate_link: "https://www.udemy.com/certificate/UC-cce44ffc-b0b5-4831-9d22-1c2e81bdfe0d/",
-            alt_name: "Udemy",
-            color_code: "#90990099",
+            title: "Microsoft Office Specialist",
+            subtitle: "- King Abdulaziz University",
+            logo_path: "watheq.jpg",
+            certificate_link: "https://drive.google.com/file/d/11RtRkwHCi3TKJKoyDSeasMf-d1o6J5Bb/view?usp=sharing",
+            alt_name: "MOS KAU",
+            color_code: "#533332A0",
         },
-        {
-            title: "Introduction to Cybersecurity",
-            subtitle: "- Cisco",
-            logo_path: "Cisco-logo.png",
-            certificate_link: "https://www.credly.com/badges/df9b7793-be9e-43c2-a398-86eeacefe10d?source=linked_in_profile",
-            alt_name: "Cisco",
-            color_code: "#8C151599",
-        },
+        // {
+        //     title: "Learn the Fundamentals of Networking",
+        //     subtitle: "- Udemy",
+        //     logo_path: "Udemy.png",
+        //     certificate_link: "https://www.udemy.com/certificate/UC-cce44ffc-b0b5-4831-9d22-1c2e81bdfe0d/",
+        //     alt_name: "Udemy",
+        //     color_code: "#90990099",
+        // },
+
     ],
 };
 
@@ -499,11 +500,11 @@ const experience = {
     title: "Experience",
     subtitle: "Work, Internship and Volunteership",
     //
-    //          الكلام اللي تحت أحطه بدل الحالي بالديسكربشن
+    //          الكلام اللي تحت حق السيفي أحطه بدل الحالي بالديسكربشن لما أغير السيفي
     //
     //Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization
     // as well as to enhance my knowledge about new and emerging trends in the IT sector.
-    description: "I have worked with various types of people's characteristics and mentality and, as far as I can tell about myself, I am able to work independently in busy environments and also within a team setting.\nI am a dedicated, organized and methodical individual.",
+    description: "I have worked with various types of people's characteristics and mentality and, as far as I can tell about myself, I am able to work independently in busy environments and also within a team setting."+"\n"+"I am a dedicated, organized and methodical individual.",
     header_image_path: "experience.svg",
     sections: [
         // {
@@ -638,8 +639,8 @@ const publicationsHeader = {
 const contactPageData = {
     contactSection: {
         title: "Contact Me",
-        profile_image_path: "programmer.svg",
-        description: "Discuss a project or just want to say hi? My Inbox is open for all.",
+        profile_image_path: "contactMail.png",
+        description: "Discuss a project or just want to say hi?\n My Inbox is open for all.",
     },
     blogSection: {
         // title: "Blogs",
