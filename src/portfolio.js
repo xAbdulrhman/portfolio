@@ -133,14 +133,14 @@ const skills = {
                 "⚡ Capability to code and program from scratch without a use of frameworks (pure code)",
             ],
             softwareSkills: [{
-                skillName: "HTML5",
+                skillName: "HTML",
                 fontAwesomeClassname: "simple-icons:html5",
                 style: {
                     color: "#E34F26",
                 },
             },
             {
-                skillName: "CSS3",
+                skillName: "CSS",
                 fontAwesomeClassname: "fa-css3",
                 style: {
                     color: "#1572B6",
@@ -481,7 +481,7 @@ const certifications = {
             logo_path: "watheq.jpg",
             certificate_link: "https://drive.google.com/file/d/11RtRkwHCi3TKJKoyDSeasMf-d1o6J5Bb/view?usp=sharing",
             alt_name: "MOS KAU",
-            color_code: "#533332A0",
+            color_code: "#ffffff",
         },
         // {
         //     title: "Learn the Fundamentals of Networking",

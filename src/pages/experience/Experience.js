@@ -25,7 +25,7 @@ import ExperienceImg from "./ExperienceImg";
 					logo_path: "wefag.jpg",
 					duration: "Oct 2022 - PRESENT",
 					location: "Jeddah, Saudi Arabia",
-					description: "I'm working on creating a single master record for each customer, supplier, item or even employee in a business, from across internal and external data sources and applications. This information has been de-duplicated, reconciled and enriched, becoming a consistent, reliable source. Once created, I serve as a trusted view of business-critical data that can be managed and shared across the business to promote accurate reporting, reduce data errors, remove redundancy, and help workers make better-informed business decisions.",
+					description: "I'm working on creating a single master record for each customer, supplier, item or even employee in a business, from across internal and external data sources and applications. This information has been de-duplicated, reconciled and enriched, becoming a consistent, reliable source. Once created, I serve as a trusted view of business-critical data that can be managed and shared across the business to promote accurate reporting, reduce data errors, remove redundancy, and help end-users to make better-informed business decisions.",
 					color: "#0879bf"
 				}
 				// ,{
@@ -86,12 +86,12 @@ import ExperienceImg from "./ExperienceImg";
 				{
 					title: "(ISC)² Candidate",
 					company: "(ISC)²",
-					company_url: "https://www.isc2.org/",
+					company_url: "https://www.credly.com/badges/1c474489-1be0-428e-b4e1-f241ef069357",
 					logo_path: "ISC2.png",
-					duration: "February 2023 - February 2024",
+					duration: "February 2023 - PRESENT",
 					location: "Virtual",
 					description:
-						"(ISC)² Candidates are individuals pursuing or considering a cybersecurity certification.",
+						"International Information System Security Certification Consortium (ISC)² Candidates are individuals pursuing or considering a cybersecurity certification.",
 					color: "#2f9f3f"
 				},
 				{
