@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-    isSplash: false, // Change this to false if you don't want Splash screen.
+    isSplash: true, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -13,7 +13,7 @@ const seo = {
     og: {
         title: "AMB",
         type: "website",
-        url: "https://a-mb.me/",
+        url: "https://a-mb.tech/",
     },
 };
 
@@ -404,6 +404,30 @@ const degrees = {
 const certifications = {
     certifications: [
         {
+            title: "Microsoft Certified: Azure Fundamentals",
+            subtitle: "- Microsoft",
+            logo_path: "azure.png",
+            certificate_link: "https://www.credly.com/badges/c07142f6-419e-443e-97b2-c60009b3df7f/public_url",
+            alt_name: "Microsoft",
+            color_code: "#051D3219",
+        },
+        {
+            title: "CBP-Computer Technology Specialist",
+            subtitle: "- Certified Business Professional",
+            logo_path: "CBP.png",
+            certificate_link: "https://drive.google.com/file/d/1Bvhp78LS-Em4fF6NHxTcuafdo8SPbgwC/view?usp=sharing",
+            alt_name: "CBP-CT",
+            color_code: "#5B2C6F6F",
+        },
+        {
+            title: "Microsoft Office Specialist",
+            subtitle: "- King Abdulaziz University",
+            logo_path: "watheq.jpg",
+            certificate_link: "https://drive.google.com/file/d/11RtRkwHCi3TKJKoyDSeasMf-d1o6J5Bb/view?usp=sharing",
+            alt_name: "MOS KAU",
+            color_code: "#ffffff",
+        },
+        {
             title: "Data Science & Machine Learning",
             subtitle: "- Udemy",
             logo_path: "Udemy.png",
@@ -417,7 +441,7 @@ const certifications = {
             logo_path: "Cisco-logo.png",
             certificate_link: "https://www.credly.com/badges/b7a3dc94-e325-445b-9058-0f1c129361df?source=linked_in_profile",
             alt_name: "Cisco",
-            color_code: "#00008f",
+            color_code: "#6e0516",
         },
         {
             title: "Organizational IQ",
@@ -459,30 +483,6 @@ const certifications = {
         //     alt_name: "Udemy",
         //     color_code: "#1F70C199",
         // },
-        {
-            title: "Microsoft Certified: Azure Fundamentals",
-            subtitle: "- Microsoft",
-            logo_path: "azure.png",
-            certificate_link: "https://www.credly.com/badges/c07142f6-419e-443e-97b2-c60009b3df7f/public_url",
-            alt_name: "Microsoft",
-            color_code: "#051D3219",
-        },
-        {
-            title: "CBP-Computer Technology Specialist",
-            subtitle: "- Certified Business Professional",
-            logo_path: "CBP.png",
-            certificate_link: "https://drive.google.com/file/d/1Bvhp78LS-Em4fF6NHxTcuafdo8SPbgwC/view?usp=sharing",
-            alt_name: "CBP-CT",
-            color_code: "#5B2C6F6F",
-        },
-        {
-            title: "Microsoft Office Specialist",
-            subtitle: "- King Abdulaziz University",
-            logo_path: "watheq.jpg",
-            certificate_link: "https://drive.google.com/file/d/11RtRkwHCi3TKJKoyDSeasMf-d1o6J5Bb/view?usp=sharing",
-            alt_name: "MOS KAU",
-            color_code: "#ffffff",
-        },
         // {
         //     title: "Learn the Fundamentals of Networking",
         //     subtitle: "- Udemy",
