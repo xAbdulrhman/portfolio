@@ -639,7 +639,7 @@ const publicationsHeader = {
 const contactPageData = {
     contactSection: {
         title: "Contact Me",
-        profile_image_path: "contactMail.png",
+        profile_image_path: "manOnTable.svg",
         description: "Discuss a project or just want to say hi?\n My Inbox is open for all.",
     },
     blogSection: {
