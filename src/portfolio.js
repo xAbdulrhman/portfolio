@@ -2,18 +2,18 @@
 
 // Website related settings
 const settings = {
-    isSplash: true, // Change this to false if you don't want Splash screen.
+    isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
 const seo = {
     title: "AMB",
-    description: "A passionate IT Specialist & Software Developer 🚀 I strive for continuous progress in everything I do, both personally and professionally," +
+    description: "I strive for continuous progress in everything I do, both personally and professionally," +
         " so, am keen to secure a role which allows me to enhance and develop my all-round skills and abilities.",
     og: {
         title: "AMB",
         type: "website",
-        url: "https://a-mb.tech/",
+        url: "https://a-mb.me/",
     },
 };
 
