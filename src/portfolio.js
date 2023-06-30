@@ -13,7 +13,7 @@ const seo = {
     og: {
         title: "AMB",
         type: "website",
-        url: "https://a-mb.me/",
+        url: "https://a-mb.tech/",
     },
 };
 
