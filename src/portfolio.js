@@ -138,7 +138,7 @@ const skills = {
                 skillName: "HTML",
                 fontAwesomeClassname: "simple-icons:html5",
                 style: {
-                    // color: "#E34F26",
+                    color: "#E34F26",
                 },
             },
             {
@@ -216,15 +216,6 @@ const skills = {
                 },
             },
             {
-                skillName: "Microsoft",
-                fontAwesomeClassname: "logos:microsoft",
-                style: {
-                    backgroundColor: "transparent",
-                    color: "#3776AB",
-                },
-            },
-
-            {
                 skillName: "NodeJS",
                 fontAwesomeClassname: "simple-icons:node-dot-js",
                 style: {
@@ -255,6 +246,14 @@ const skills = {
             {
                 skillName: "MySQL",
                 fontAwesomeClassname: "cib:mysql",
+                style: {
+                    backgroundColor: "transparent",
+                    color: "#3776AB",
+                },
+            },
+            {
+                skillName: "Microsoft",
+                fontAwesomeClassname: "logos:microsoft",
                 style: {
                     backgroundColor: "transparent",
                     color: "#3776AB",
@@ -440,6 +439,7 @@ const certifications = {
             logo_path: "CC.png",
             certificate_link: "https://www.credly.com/earner/earned/badge/a901fcf7-4d55-4c8d-95e6-b17656a471fa",
             alt_name: "(ISC)²",
+            color_code: "#ffffff",
         },        
         {
             title: "Microsoft Certified: Azure Fundamentals",
@@ -463,7 +463,7 @@ const certifications = {
             logo_path: "MOS.png",
             certificate_link: "https://drive.google.com/file/d/11RtRkwHCi3TKJKoyDSeasMf-d1o6J5Bb/view?usp=sharing",
             alt_name: "Microsoft Office Specialist",
-            color_code: "#3c3f40",
+            color_code: "#ffffff",
         },
         {
             title: "CCNA",
