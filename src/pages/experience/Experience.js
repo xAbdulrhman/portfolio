@@ -19,7 +19,7 @@ import ExperienceImg from "./ExperienceImg";
 			title: "Work",
 			experiences: [
 				{
-					title: "Master Data Engineer",
+					title: "Master Data Analyst",
 					company: "Al Wefag Trading & Manufacturing Co. Ltd.",
 					company_url: "https://alwefag.com/",
 					logo_path: "wefag.jpg",

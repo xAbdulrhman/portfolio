@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
     title: "Abdulrahman Bawazir🚀",
     logo_name: "AMB",
-    nickname: "A Master Data Engineer & passionate Cyber Officer",
+    nickname: "A Master Data Analyst & passionate Cyber Officer",
     subTitle: "I strive for continuous progress in everything I do, both personally and professionally," +
         " so, am keen to secure a role which allows me to enhance and develop my all-round skills and abilities.",
     resumeLink: "",
@@ -124,19 +124,21 @@ const skills = {
         //         ],
         //     },
         {
-            title: "I'm always curious and exited to learn more about technology, here are some of the tech stacks I have worked on",
+            title: "I'm always curious and exited to learn more about Technology and especially in Cybersecurity field, here are some of the tech stacks I have worked on",
             fileName: "FullStackImg",
             skills: [
-                "⚡ Building responsive front end website",
-                "⚡ Design interactive UI for web applications",
+                "⚡ Building and Designing responsive front end website",
                 "⚡ Investigate and tryout different frameworks and open source projects",
-                "⚡ Capability to code and program from scratch without a use of frameworks (pure code)",
+                "⚡ Learn the ethics, practices, policies and procedures of cyber security"+
+                " as I study how to tackle network security defense techniques and countermeasures.",
+                "⚡ Keep on earning certifications to boost my skills while working full-time to gain hands-on experience.",
             ],
+
             softwareSkills: [{
                 skillName: "HTML",
                 fontAwesomeClassname: "simple-icons:html5",
                 style: {
-                    color: "#E34F26",
+                    // color: "#E34F26",
                 },
             },
             {
@@ -175,6 +177,35 @@ const skills = {
                 style: {
                     backgroundColor: "transparent",
                     color: "#3776AB",
+                }
+            },
+            {
+                skillName: "Linux",
+                fontAwesomeClassname: "flat-color-icons:linux",
+                style: {
+                    backgroundColor: "transparent",
+                }
+            },
+            {
+                skillName: "Command-Line",
+                fontAwesomeClassname: "flat-color-icons:command-line",
+                style: {
+                    backgroundColor: "transparent",
+                }
+            },            
+            {
+                skillName: "Oracle",
+                fontAwesomeClassname: "logos:oracle",
+                style: {
+                    backgroundColor: "transparent",
+                }
+            },
+            {
+                skillName: "SharePoint",
+                fontAwesomeClassname: "mdi:microsoft-sharepoint",
+                style: {
+                    backgroundColor: "transparent",
+                    color: "#347859",
                 }
             },
             {
@@ -389,7 +420,7 @@ const degrees = {
     degrees: [{
         title: "King Abdulaziz University",
         subtitle: "Faculty of Computing and Information Technology",
-        logo_path: "KAU3.jpg",
+        logo_path: "KAU_FCIT.png",
         alt_name: "KAU FCIT",
         duration: "2017 - 2022",
         descriptions: [
@@ -404,6 +435,13 @@ const degrees = {
 const certifications = {
     certifications: [
         {
+            title: "Certified in Cybersecurity (CC)",
+            subtitle: "- (ISC)²",
+            logo_path: "CC.png",
+            certificate_link: "https://www.credly.com/earner/earned/badge/a901fcf7-4d55-4c8d-95e6-b17656a471fa",
+            alt_name: "(ISC)²",
+            color_code: "#0f5f12",
+        },        {
             title: "Microsoft Certified: Azure Fundamentals",
             subtitle: "- Microsoft",
             logo_path: "azure.png",
@@ -422,18 +460,10 @@ const certifications = {
         {
             title: "Microsoft Office Specialist",
             subtitle: "- King Abdulaziz University",
-            logo_path: "watheq.jpg",
+            logo_path: "MOS.png",
             certificate_link: "https://drive.google.com/file/d/11RtRkwHCi3TKJKoyDSeasMf-d1o6J5Bb/view?usp=sharing",
-            alt_name: "MOS KAU",
-            color_code: "#ffffff",
-        },
-        {
-            title: "Data Science & Machine Learning",
-            subtitle: "- Udemy",
-            logo_path: "Udemy.png",
-            certificate_link: "https://www.udemy.com/certificate/UC-b75900c0-e7e6-4a34-a39d-e5cd5e1f23fa/",
-            alt_name: "Udemy",
-            color_code: "#0C9D5899",
+            alt_name: "Microsoft Office Specialist",
+            color_code: "#3c3f40",
         },
         {
             title: "CCNA",
@@ -475,6 +505,14 @@ const certifications = {
             alt_name: "Misk Skills",
             color_code: "#90990099",
         },
+        {
+            title: "Data Science & Machine Learning",
+            subtitle: "- Udemy",
+            logo_path: "Udemy.png",
+            certificate_link: "https://www.udemy.com/certificate/UC-b75900c0-e7e6-4a34-a39d-e5cd5e1f23fa/",
+            alt_name: "Udemy",
+            color_code: "#0C9D5899",
+        },        
         // {
         //     title: "[NEW] Cyber Security 2020",
         //     subtitle: "- Udemy",
