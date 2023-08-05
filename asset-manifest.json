@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "./static/css/main.df6f0422.css",
-    "main.js": "./static/js/main.d6e892a7.js",
+    "main.js": "./static/js/main.e24cbcd5.js",
     "static/media/portfolio.gif": "./static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
     "static/media/Montserrat-Regular.ttf": "./static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/dsc_logo.png": "./static/media/dsc_logo.fdf993910e3f48d0cf30.png",
-    "static/media/KAU2.jpg": "./static/media/KAU2.be34a39af7ec0b635a15.jpg",
     "static/media/fa-solid-900.eot": "./static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
     "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.aae41ea25bd0dde9f796.ttf",
+    "static/media/KAU_FCIT.png": "./static/media/KAU_FCIT.7bafb8d9b35a6bf2a685.png",
     "static/media/fa-regular-400.svg": "./static/media/fa-regular-400.4e8f9fa44f7ec7479c39.svg",
     "static/media/fa-brands-400.eot": "./static/media/fa-brands-400.b09f783b99c88d6989f7.eot",
     "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.ec7723ea62ad74c14959.ttf",
     "static/media/CBP.png": "./static/media/CBP.186a5dda409d744aad5d.png",
+    "static/media/MOS.png": "./static/media/MOS.61eea0e2809904c16257.png",
     "static/media/GoogleSans-Italic.ttf": "./static/media/GoogleSans-Italic.40bb50bd202405745006.ttf",
     "static/media/GoogleSans-MediumItalic.ttf": "./static/media/GoogleSans-MediumItalic.56d4f777a7997e5a10b3.ttf",
     "static/media/GoogleSans-BoldItalic.ttf": "./static/media/GoogleSans-BoldItalic.d282e9c31d0f894a7f06.ttf",
@@ -40,7 +41,6 @@
     "static/media/ISC2.png": "./static/media/ISC2.1da332c6f9ed0f735465.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/muffito_logo.png": "./static/media/muffito_logo.a40e290031eaf389bde1.png",
-    "static/media/KK.jpg": "./static/media/KK.8e5b2178255d8e859bd8.jpg",
     "static/media/deeplearning_ai_logo.png": "./static/media/deeplearning_ai_logo.f5e1bd288e7a2b30a390.png",
     "static/media/nptel_logo.png": "./static/media/nptel_logo.14bc947aebe4b57dd2bc.png",
     "static/media/gcp_logo.png": "./static/media/gcp_logo.63bb0649c9716d110b14.png",
@@ -73,10 +73,10 @@
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.df6f0422.css.map": "./static/css/main.df6f0422.css.map",
-    "main.d6e892a7.js.map": "./static/js/main.d6e892a7.js.map"
+    "main.e24cbcd5.js.map": "./static/js/main.e24cbcd5.js.map"
   },
   "entrypoints": [
     "static/css/main.df6f0422.css",
-    "static/js/main.d6e892a7.js"
+    "static/js/main.e24cbcd5.js"
   ]
 }
