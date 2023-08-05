@@ -195,7 +195,7 @@ const skills = {
             },            
             {
                 skillName: "Oracle",
-                fontAwesomeClassname: "logos:oracle",
+                fontAwesomeClassname: "devicon:oracle",
                 style: {
                     backgroundColor: "transparent",
                 }
@@ -440,8 +440,8 @@ const certifications = {
             logo_path: "CC.png",
             certificate_link: "https://www.credly.com/earner/earned/badge/a901fcf7-4d55-4c8d-95e6-b17656a471fa",
             alt_name: "(ISC)²",
-            color_code: "#0f5f12",
-        },        {
+        },        
+        {
             title: "Microsoft Certified: Azure Fundamentals",
             subtitle: "- Microsoft",
             logo_path: "azure.png",
