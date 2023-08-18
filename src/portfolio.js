@@ -127,9 +127,9 @@ const skills = {
             title: "I'm always curious and exited to learn more about Technology and especially in Cybersecurity field, here are some of the tech stacks I have worked on",
             fileName: "FullStackImg",
             skills: [
-                "⚡ Building and Designing responsive front end website",
+                "⚡ Building and Designing responsive front-end website",
                 "⚡ Investigate and tryout different frameworks and open source projects",
-                "⚡ Learn the ethics, practices, policies and procedures of cyber security"+
+                "⚡ Learn the law, ethics, practices, policies and procedures of cyber security"+
                 " as I study how to tackle network security defense techniques and countermeasures.",
                 "⚡ Keep on earning certifications to boost my skills while working full-time to gain hands-on experience.",
             ],
@@ -165,57 +165,6 @@ const skills = {
                 },
             },
             {
-                skillName: "PyTorch",
-                fontAwesomeClassname: "logos:pytorch-icon",
-                style: {
-                    backgroundColor: "transparent",
-                },
-            },
-            {
-                skillName: "Python",
-                fontAwesomeClassname: "ion-logo-python",
-                style: {
-                    backgroundColor: "transparent",
-                    color: "#3776AB",
-                }
-            },
-            {
-                skillName: "Linux",
-                fontAwesomeClassname: "flat-color-icons:linux",
-                style: {
-                    backgroundColor: "transparent",
-                }
-            },
-            {
-                skillName: "Command-Line",
-                fontAwesomeClassname: "flat-color-icons:command-line",
-                style: {
-                    backgroundColor: "transparent",
-                }
-            },            
-            {
-                skillName: "Oracle",
-                fontAwesomeClassname: "devicon:oracle",
-                style: {
-                    backgroundColor: "transparent",
-                }
-            },
-            {
-                skillName: "SharePoint",
-                fontAwesomeClassname: "mdi:microsoft-sharepoint",
-                style: {
-                    backgroundColor: "transparent",
-                    color: "#347859",
-                }
-            },
-            {
-                skillName: "Azure",
-                fontAwesomeClassname: "simple-icons:microsoftazure",
-                style: {
-                    color: "#0089D6",
-                },
-            },
-            {
                 skillName: "NodeJS",
                 fontAwesomeClassname: "simple-icons:node-dot-js",
                 style: {
@@ -238,19 +187,91 @@ const skills = {
             },
             {
                 skillName: "Java",
-                fontAwesomeClassname: "logos:java",
+                fontAwesomeClassname: "devicon:java-wordmark",
                 style: {
                     color: "#663399",
                 },
             },
             {
-                skillName: "MySQL",
-                fontAwesomeClassname: "cib:mysql",
+                skillName: "Python",
+                fontAwesomeClassname: "ion-logo-python",
+                style: {
+                    backgroundColor: "transparent",
+                    color: "#3776AB",
+                }
+            },            
+            {
+                skillName: "PyTorch",
+                fontAwesomeClassname: "logos:pytorch-icon",
+                style: {
+                    backgroundColor: "transparent",
+                },
+            },
+            {
+                skillName: "SQL-Developer",
+                fontAwesomeClassname: "devicon:sqldeveloper",
                 style: {
                     backgroundColor: "transparent",
                     color: "#3776AB",
                 },
             },
+            {
+                skillName: "SharePoint",
+                fontAwesomeClassname: "mdi:microsoft-sharepoint",
+                style: {
+                    backgroundColor: "transparent",
+                    color: "#347859",
+                }
+            },
+            {
+                skillName: "Azure",
+                fontAwesomeClassname: "simple-icons:microsoftazure",
+                style: {
+                    color: "#0089D6",
+                },
+            },
+            {
+                skillName: "Linux",
+                fontAwesomeClassname: "flat-color-icons:linux",
+                style: {
+                    backgroundColor: "transparent",
+                }
+            },
+            {
+                skillName: "Command-Line",
+                fontAwesomeClassname: "flat-color-icons:command-line",
+                style: {
+                    backgroundColor: "transparent",
+                }
+            },            
+            {
+                skillName: "Splunk",
+                fontAwesomeClassname: "simple-icons:splunk",
+                style: {
+                    backgroundColor: "transparent",
+                }
+            },
+            {
+                skillName: "wireshark",
+                fontAwesomeClassname: "simple-icons:wireshark",
+                style: {
+                    backgroundColor: "transparent",
+                }
+            },            
+            {
+                skillName: "nmap",
+                fontAwesomeClassname: "file-icons:nmap",
+                style: {
+                    backgroundColor: "transparent",
+                }
+            },     
+            {
+                skillName: "Oracle",
+                fontAwesomeClassname: "devicon:oracle",
+                style: {
+                    backgroundColor: "transparent",
+                }
+            },            
             {
                 skillName: "Microsoft",
                 fontAwesomeClassname: "logos:microsoft",
@@ -437,7 +458,7 @@ const certifications = {
             title: "Certified in Cybersecurity (CC)",
             subtitle: "- (ISC)²",
             logo_path: "CC.png",
-            certificate_link: "https://www.credly.com/earner/earned/badge/a901fcf7-4d55-4c8d-95e6-b17656a471fa",
+            certificate_link: "https://drive.google.com/file/d/1zOc1Auf4Xts-qqw7SCH4VBIz0KL-kIRW/view?usp=sharing",
             alt_name: "(ISC)²",
             color_code: "#ffffff",
         },        
