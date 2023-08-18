@@ -265,21 +265,21 @@ const skills = {
                     backgroundColor: "transparent",
                 }
             },     
-            {
-                skillName: "Oracle",
-                fontAwesomeClassname: "logos:oracle",
-                style: {
-                    backgroundColor: "transparent",
-                }
-            },            
-            {
-                skillName: "Microsoft",
-                fontAwesomeClassname: "logos:microsoft",
-                style: {
-                    backgroundColor: "transparent",
-                    color: "#3776AB",
-                },
-            },
+            // {
+            //     skillName: "Oracle",
+            //     fontAwesomeClassname: "devicon:oracle",
+            //     style: {
+            //         backgroundColor: "transparent",
+            //     }
+            // },            
+            // {
+            //     skillName: "Microsoft",
+            //     fontAwesomeClassname: "logos:microsoft",
+            //     style: {
+            //         backgroundColor: "transparent",
+            //         color: "#3776AB",
+            //     },
+            // },
             ],
         },
         // {
