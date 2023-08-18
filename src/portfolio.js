@@ -127,8 +127,8 @@ const skills = {
             title: "I'm always curious and exited to learn more about Technology and especially in Cybersecurity field, here are some of the tech stacks I have worked on",
             fileName: "FullStackImg",
             skills: [
-                "⚡ Building and Designing responsive front-end website",
-                "⚡ Investigate and tryout different frameworks and open source projects",
+                "⚡ Building and Designing responsive front-end website.",
+                "⚡ Investigate and tryout different frameworks and open source projects.",
                 "⚡ Learn the law, ethics, practices, policies and procedures of cyber security"+
                 " as I study how to tackle network security defense techniques and countermeasures.",
                 "⚡ Keep on earning certifications to boost my skills while working full-time to gain hands-on experience.",
@@ -172,7 +172,7 @@ const skills = {
                 },
             },
             {
-                skillName: "NPM",
+                skillName: "npm",
                 fontAwesomeClassname: "simple-icons:npm",
                 style: {
                     color: "#CB3837",
@@ -252,14 +252,14 @@ const skills = {
                 }
             },
             {
-                skillName: "wireshark",
+                skillName: "Wireshark",
                 fontAwesomeClassname: "simple-icons:wireshark",
                 style: {
                     backgroundColor: "transparent",
                 }
             },            
             {
-                skillName: "nmap",
+                skillName: "NMAP",
                 fontAwesomeClassname: "file-icons:nmap",
                 style: {
                     backgroundColor: "transparent",
@@ -267,7 +267,7 @@ const skills = {
             },     
             {
                 skillName: "Oracle",
-                fontAwesomeClassname: "devicon:oracle",
+                fontAwesomeClassname: "logos:oracle",
                 style: {
                     backgroundColor: "transparent",
                 }
