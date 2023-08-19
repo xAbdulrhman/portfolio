@@ -129,9 +129,11 @@ const skills = {
             skills: [
                 "⚡ Building and Designing responsive front-end website.",
                 "⚡ Investigate and tryout different frameworks and open source projects.",
-                "⚡ Learn the law, ethics, practices, policies and procedures of cyber security"+
-                " as I study how to tackle network security defense techniques and countermeasures.",
+                "⚡ Devoloping plans/stratiges and researching IT security trends.",
+                "⚡ The use of SIEM tools and packet sniffers such as wireshark & tcpdump to identify risks.",
                 "⚡ Keep on earning certifications to boost my skills while working full-time to gain hands-on experience.",
+                "⚡ Learn the ethics, policies, practices and procedures of cyber security" +
+                " as I study how to tackle network security defense techniques and countermeasures.",
             ],
 
             softwareSkills: [{
@@ -199,7 +201,7 @@ const skills = {
                     backgroundColor: "transparent",
                     color: "#3776AB",
                 }
-            },            
+            },
             {
                 skillName: "PyTorch",
                 fontAwesomeClassname: "logos:pytorch-icon",
@@ -213,6 +215,13 @@ const skills = {
                 style: {
                     backgroundColor: "transparent",
                     color: "#3776AB",
+                },
+            },
+            {
+                skillName: "PostgreSQL",
+                fontAwesomeClassname: "simple-icons:postgresql",
+                style: {
+                    color: "#336791",
                 },
             },
             {
@@ -243,7 +252,7 @@ const skills = {
                 style: {
                     backgroundColor: "transparent",
                 }
-            },            
+            },
             {
                 skillName: "Splunk",
                 fontAwesomeClassname: "simple-icons:splunk",
@@ -257,40 +266,40 @@ const skills = {
                 style: {
                     backgroundColor: "transparent",
                 }
-            },            
+            },
             {
                 skillName: "NMAP",
                 fontAwesomeClassname: "file-icons:nmap",
                 style: {
                     backgroundColor: "transparent",
                 }
-            },     
-            // {
-            //     skillName: "Oracle",
-            //     fontAwesomeClassname: "devicon:oracle",
-            //     style: {
-            //         backgroundColor: "transparent",
-            //     }
-            // },            
-            // {
-            //     skillName: "Microsoft",
-            //     fontAwesomeClassname: "logos:microsoft",
-            //     style: {
-            //         backgroundColor: "transparent",
-            //         color: "#3776AB",
-            //     },
-            // },
+            },
+                // {
+                //     skillName: "Oracle",
+                //     fontAwesomeClassname: "devicon:oracle",
+                //     style: {
+                //         backgroundColor: "transparent",
+                //     }
+                // },            
+                // {
+                //     skillName: "Microsoft",
+                //     fontAwesomeClassname: "logos:microsoft",
+                //     style: {
+                //         backgroundColor: "transparent",
+                //         color: "#3776AB",
+                //     },
+                // },
             ],
         },
-        // {
-        //     title: "Cloud Infra-Architecture",
-        //     fileName: "CloudInfraImg",
-        //     skills: [
+        {
+            title: "Cloud Infra-Architecture",
+            fileName: "CloudInfraImg",
+            // skills: [
         //         "⚡ Experience working on multiple cloud platforms",
         //         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
         //         "⚡ Deploying deep learning models on cloud to use on mobile devices",
         //         "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-        //     ],
+            // ],
         //     softwareSkills: [{
         //             skillName: "GCP",
         //             fontAwesomeClassname: "simple-icons:googlecloud",
@@ -320,13 +329,6 @@ const skills = {
         //             },
         //         },
         //         {
-        //             skillName: "PostgreSQL",
-        //             fontAwesomeClassname: "simple-icons:postgresql",
-        //             style: {
-        //                 color: "#336791",
-        //             },
-        //         },
-        //         {
         //             skillName: "MongoDB",
         //             fontAwesomeClassname: "simple-icons:mongodb",
         //             style: {
@@ -348,10 +350,10 @@ const skills = {
         //             },
         //         },
         //     ],
-        // },
-        // {
-        //     title: "UI/UX Design",
-        //     fileName: "DesignImg",
+        },
+        {
+            title: "UI/UX Design",
+            fileName: "DesignImg",
         //     skills: [
         //         "⚡ Designing highly attractive user interface for mobile and web applications",
         //         "⚡ Customizing logo designs and building logos from scratch",
@@ -386,7 +388,7 @@ const skills = {
         //             },
         //         },
         // ],
-        // },
+        },
     ],
 };
 
@@ -455,13 +457,21 @@ const degrees = {
 const certifications = {
     certifications: [
         {
+            title: "Google Cybersecurity Certificate",
+            subtitle: "- Google",
+            logo_path: "google_cybersecurity.png",
+            certificate_link: "https://www.credly.com/badges/656e1a9e-e962-452e-a4b6-f7ff0ebbc2a3/public_url",
+            alt_name: "Google",
+            color_code: "#9a4220",
+        },
+        {
             title: "Certified in Cybersecurity (CC)",
             subtitle: "- (ISC)²",
             logo_path: "CC.png",
             certificate_link: "https://drive.google.com/file/d/1zOc1Auf4Xts-qqw7SCH4VBIz0KL-kIRW/view?usp=sharing",
             alt_name: "(ISC)²",
             color_code: "#ffffff",
-        },        
+        },
         {
             title: "Microsoft Certified: Azure Fundamentals",
             subtitle: "- Microsoft",
@@ -484,7 +494,15 @@ const certifications = {
             logo_path: "MOS.png",
             certificate_link: "https://drive.google.com/file/d/11RtRkwHCi3TKJKoyDSeasMf-d1o6J5Bb/view?usp=sharing",
             alt_name: "Microsoft Office Specialist",
-            color_code: "#ffffff",
+            color_code: "#434",
+        },
+        {
+            title: "Stress Management",
+            subtitle: "- doroob",
+            logo_path: "doroob.png",
+            certificate_link: "https://drive.google.com/file/d/1t3-Wg-OV3R_Z6xGXUwTUpjkmUo6NolkI/view?usp=sharing",
+            alt_name: "Doroob",
+            color_code: "#5ae",
         },
         {
             title: "CCNA",
@@ -495,28 +513,12 @@ const certifications = {
             color_code: "#6e0516",
         },
         {
-            title: "Organizational IQ",
-            subtitle: "- Misk Skills",
-            logo_path: "Misk.png",
-            certificate_link: "https://miskfuturepath.novoed.com/#!/courses/2022-ar-organizational-iq/statements/2788859",
-            alt_name: "Misk Skills",
-            color_code: "#1230C199",
-        },
-        {
             title: "The Complete Ethical Hacking Course!",
             subtitle: "- Udemy",
             logo_path: "Udemy.png",
             certificate_link: "https://www.udemy.com/certificate/UC-beca7038-3abe-40bb-bbe3-6f06309e6d58/",
             alt_name: "Udemy",
             color_code: "#D83B0199",
-        },
-        {
-            title: "Introduction to Cybersecurity",
-            subtitle: "- Cisco",
-            logo_path: "Cisco-logo.png",
-            certificate_link: "https://www.credly.com/badges/df9b7793-be9e-43c2-a398-86eeacefe10d?source=linked_in_profile",
-            alt_name: "Cisco",
-            color_code: "#0a4966",
         },
         {
             title: "Data Analysis",
@@ -527,13 +529,30 @@ const certifications = {
             color_code: "#90990099",
         },
         {
+            title: "Introduction to Cybersecurity",
+            subtitle: "- Cisco",
+            logo_path: "Cisco-logo.png",
+            certificate_link: "https://www.credly.com/badges/df9b7793-be9e-43c2-a398-86eeacefe10d?source=linked_in_profile",
+            alt_name: "Cisco",
+            color_code: "#036",
+        },
+
+        {
             title: "Data Science & Machine Learning",
             subtitle: "- Udemy",
             logo_path: "Udemy.png",
             certificate_link: "https://www.udemy.com/certificate/UC-b75900c0-e7e6-4a34-a39d-e5cd5e1f23fa/",
             alt_name: "Udemy",
             color_code: "#0C9D5899",
-        },        
+        },
+        {
+            title: "Organizational IQ",
+            subtitle: "- Misk Skills",
+            logo_path: "Misk.png",
+            certificate_link: "https://miskfuturepath.novoed.com/#!/courses/2022-ar-organizational-iq/statements/2788859",
+            alt_name: "Misk Skills",
+            color_code: "#1230C199",
+        },
         // {
         //     title: "[NEW] Cyber Security 2020",
         //     subtitle: "- Udemy",
@@ -550,7 +569,6 @@ const certifications = {
         //     alt_name: "Udemy",
         //     color_code: "#90990099",
         // },
-
     ],
 };
 
@@ -563,7 +581,7 @@ const experience = {
     //
     //Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization
     // as well as to enhance my knowledge about new and emerging trends in the IT sector.
-    description: "I have worked with various types of people's characteristics and mentality and, as far as I can tell about myself, I am able to work independently in busy environments and also within a team setting."+"\n"+"I am a dedicated, organized and methodical individual.",
+    description: "I have worked with various types of people's characteristics and mentality and, as far as I can tell about myself, I am able to work independently in busy environments and also within a team setting." + "\n" + "I am a dedicated, organized and methodical individual.",
     header_image_path: "experience.svg",
     sections: [
         // {
