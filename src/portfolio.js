@@ -291,15 +291,15 @@ const skills = {
                 // },
             ],
         },
-        {
-            title: "Cloud Infra-Architecture",
-            fileName: "CloudInfraImg",
-            // skills: [
+        // {
+        //     title: "Cloud Infra-Architecture",
+        //     fileName: "CloudInfraImg",
+        //     skills: [
         //         "⚡ Experience working on multiple cloud platforms",
         //         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
         //         "⚡ Deploying deep learning models on cloud to use on mobile devices",
         //         "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-            // ],
+        //     ],
         //     softwareSkills: [{
         //             skillName: "GCP",
         //             fontAwesomeClassname: "simple-icons:googlecloud",
@@ -350,10 +350,10 @@ const skills = {
         //             },
         //         },
         //     ],
-        },
-        {
-            title: "UI/UX Design",
-            fileName: "DesignImg",
+        // },
+        // {
+        //     title: "UI/UX Design",
+        //     fileName: "DesignImg",
         //     skills: [
         //         "⚡ Designing highly attractive user interface for mobile and web applications",
         //         "⚡ Customizing logo designs and building logos from scratch",
@@ -388,7 +388,7 @@ const skills = {
         //             },
         //         },
         // ],
-        },
+        // },
     ],
 };
 
