@@ -34,7 +34,7 @@ const socialMediaLinks = [
     // github: "https://github.com/xAbdulrhman",
     // linkedin: "https://www.linkedin.com/in/anabawazir/",
     // gmail: "abdulrhmanbawzir@gmail.com",
-    // twitter: "https://twitter.com/ixwo_",
+    // twitter: "https://twitter.com/xhaq0",
     // instagram: "https://www.instagram.com/z99v_/"
 
     {
@@ -63,7 +63,7 @@ const socialMediaLinks = [
     },
     {
         name: "Twitter",
-        link: "https://twitter.com/ixwo_",
+        link: "https://twitter.com/xhaq0",
         fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
         backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
     },
@@ -127,7 +127,7 @@ const skills = {
             title: "I'm always curious and exited to learn more about Technology and especially in Cybersecurity field, here are some of the tech stacks I have worked on",
             fileName: "FullStackImg",
             skills: [
-                "⚡ Building and Designing responsive front-end website.",
+                "⚡ Ensuring security incidents are handled rapidly and efficiently by following established policies and procedures.",
                 "⚡ Investigate and tryout different frameworks and open source projects.",
                 "⚡ Devoloping plans/stratiges and researching IT security trends.",
                 "⚡ The use of SIEM tools and packet sniffers such as wireshark & tcpdump to identify risks.",
@@ -202,13 +202,13 @@ const skills = {
                     color: "#3776AB",
                 }
             },
-            {
-                skillName: "PyTorch",
-                fontAwesomeClassname: "logos:pytorch-icon",
-                style: {
-                    backgroundColor: "transparent",
-                },
-            },
+            // {
+            //     skillName: "PyTorch",
+            //     fontAwesomeClassname: "logos:pytorch-icon",
+            //     style: {
+            //         backgroundColor: "transparent",
+            //     },
+            // },
             {
                 skillName: "SQL-Developer",
                 fontAwesomeClassname: "devicon:sqldeveloper",
@@ -576,12 +576,7 @@ const certifications = {
 const experience = {
     title: "Experience",
     subtitle: "Work, Internship and Volunteership",
-    //
-    //          الكلام اللي تحت حق السيفي أحطه بدل الحالي بالديسكربشن لما أغير السيفي
-    //
-    //Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization
-    // as well as to enhance my knowledge about new and emerging trends in the IT sector.
-    description: "I have worked with various types of people's characteristics and mentality and, as far as I can tell about myself, I am able to work independently in busy environments and also within a team setting." + "\n" + "I am a dedicated, organized and methodical individual.",
+    description: "",
     header_image_path: "experience.svg",
     sections: [
         // {
