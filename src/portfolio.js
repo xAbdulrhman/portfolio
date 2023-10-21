@@ -291,9 +291,9 @@ const skills = {
                 // },
             ],
         },
-        // {
+        {
         //     title: "Cloud Infra-Architecture",
-        //     fileName: "CloudInfraImg",
+            fileName: "CloudInfraImg",}
         //     skills: [
         //         "⚡ Experience working on multiple cloud platforms",
         //         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",

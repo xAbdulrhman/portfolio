@@ -12,7 +12,7 @@ import ExperienceImg from "./ExperienceImg";
 	title: "Experience",
 	subtitle: "Work, Internship and Volunteership",
 	description:
-		"I have worked with various types of people's characteristics and mentality, so, as far as I can tell about myself, I am able to work independently in busy environments and also within a team settings. \nI am a dedicated, organized and methodical individual.",
+		"",
 	header_image_path: "experience.svg",
 	sections: [
 		{
